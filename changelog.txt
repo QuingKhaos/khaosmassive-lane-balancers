@@ -1,3 +1,7 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 2026-07-03
+  Compatibility:
+    - Include base lane balancer mod and lane balancer expansion mod as dependencies.
+  Bugfixes:
+    - Fix ingredients for wood lane balancer and lane balancer recipes.

@@ -1,12 +1,16 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESCRIPTION###",
+  "name": "khaosmassive-lane-balancers",
+  "title": "Massive Planets and More - Lane Balancers",
+  "description": "Mod pack that consolidates all lane balancers for Massive Planets and More into one mod.",
   "author": "QuingKhaos",
   "homepage": "",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.0"
+    "base >= 2.0.77",
+    "khaoslib >= 1.1.0",
+
+    "lane-balancers >= 1.2.2",
+    "lane-balancers-expansion >= 1.0.1"
   ]
 }
